@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Supreme and I'm a web development enthusiast currently learning from The Odin Project.</h2>
+<h2 align="left">Hi 👋! My name is Supreme and I'm currently learning from The Odin Project.</h2>
 
 ###
 
